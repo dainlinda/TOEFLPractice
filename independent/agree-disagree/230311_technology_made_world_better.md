@@ -1,6 +1,7 @@
 > 2023-03-11 <br>
 > 1 hour. <br>
-> Source of qn: chatGPT
+> Source of qn: chatGPT <br>
+> 공백 제외: 1945 | 공백 포함: 2326 | 단어: 375
 # Question
 Do you agree or disagree with the following statement: 
 "Technology has made the world a better place to live."
