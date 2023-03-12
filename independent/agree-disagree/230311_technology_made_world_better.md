@@ -1,9 +1,11 @@
+> 2023-03-11 <br>
+> 1 hour. <br>
+> Source of qn: chatGPT
 # Question
 Do you agree or disagree with the following statement: 
 "Technology has made the world a better place to live."
 
 Use specific reasons and examples to support your answer.
-
 # Draft
 **I agree becuz**
 
@@ -23,8 +25,9 @@ Some criticizes/disagrees
 - isolation from tech
   - automation of ordering at a coffee shop leaves elderly out
 
-# Answer
-Different kind of technology has been improving life quality of people. Some says technology is harmful since it spreads ~~unprecedent~~unprecedented crime and leaves specific group of people out. Nevertheless, I agree with statement that world got better place due to technology. There are three reasons which support my opinion.
+# My answer
+
+Different kind of technology has been improving life quality of people. Some says technology is harmful since it spreads ~~unprecedent~~unprecedented crime and leaves specific group of people out. Nevertheless, I agree with statement that world got(informal) better place due to technology. There are three reasons which support my opinion.
 
 To begin with, the development of technology prolonged one's life span by keeping people safe from danger. In the past, the factor which ~~threatend~~threatened human being the most was nature. More than ~~bilions~~millions of people have died from disease, hunger, and temperature. The development of technology keeps people safe from these factors. People can stay cool in the summer with Air ~~conditional~~conditioning and pan and stay warm in the winter with heater. People can also survive from drought due to improvement of food saving technology. There is no need to even mention how medical technology improved.
 
@@ -56,7 +59,19 @@ Lastly, technology has made information more accessible to everyone, regardless 
 
 To sum up, despite some negative impacts, I believe that the benefits of technology far exceed the drawbacks. Technological advancements have improved our health, enhanced our capacity to assist one another, and made knowledge more accessible. The absence of technology in our lives is challenging to imagine, and I trust that it has made our world a significantly better place to live.
 
-# Paraphrasing
+## The answer revised by Geoff
+Different **kinds** of technology **have** been improving **people's quality of life**. Some **say** technology is harmful since it spreads unprecedented crime and leaves **specific groups of people** out. Nevertheless, I agree with **the** statement that the world **became** **a** better place **because of** technology. There are **several reasons** that support my opinion, **but I will highlight three**.
+
+To begin with, the development of technology **has** prolonged people's **life spans** by keeping **them** safe from danger. In the past, the factor which threatened **human beings** the most was nature. **Millions** of people have died from disease, hunger, and **exposure**. The development of technology keeps people safe from these factors. People can stay cool in the summer with air conditioning and stay warm in the winter with **heating systems**. People can also survive **periods of drought** due to **improvements in water resource and food saving technology**. There is **hardly a need** to mention **the huge leaps** in medical technology **over the past few decades**.
+
+Furthermore, **information technology** lets people get more help more easily from others. People in the past were not just ignorant of others' struggles, but also did not have many ways to help **those in need**. However, **information technology** has rapidly integrated the human world through **social networks**. **With the advent of social media, individuals in need of assistance can quickly share their stories to a wide audience.** There was heartwarming news last year when a person who lost her family as a 7-year-old was able to **reunite with** her family because of help from others **via** the internet. She uploaded her picture and story on social media, and it helped her family to find her **as** her story spread all over the world.
+
+Lastly, technology lets people access information with less restriction. In the past, some information was only **accessible by the rich**, and **many poorer communities** had little chance of **receiving a good education**. These days, technology allows people to easily access ~~to~~ any information they want. **A** recently developed AI model called ChatGPT accelerates this phenomenon. People did not just get the opportunity to access **vastly** more information, but also more methods **of processing that information**. For example, the auto generated voice technology helps people with **disabilities** have better access to information.
+
+**As the reasons above support**, I firmly believe technology is beneficial and the world is becoming a better place with technology. Without technology, people would have shorter life spans, people would have **limited options to receive aid from others**, and **information access would still be largely monopolized by the rich.**
+
+***
+## Paraphrasing
 - Technology
   - technological advancements
 - has improved our world
@@ -65,16 +80,19 @@ To sum up, despite some negative impacts, I believe that the benefits of technol
   - have enhanced
 - significantly
   - greatly
+  - vastly
 - The absence of 
+  - without
 - It is hard to
   - It is challenging to
 - far outweigh 
   - far exceed
-
-- limited
 - the wealthy
-
-# Useful Expressions
+  - the rich
+- through social networks
+  - via the internet
+  
+## Useful Expressions
 - Overall, I agree that ~
   - Firstly,
     - Additionally,
@@ -86,3 +104,33 @@ To sum up, despite some negative impacts, I believe that the benefits of technol
 - ~ has brought ppl closer together by enabling us to connect and help each other
 - we can easily reach out to those in need 
 - as evidenced by the heartwarming story of ~
+- the huge leaps in
+- over the past few decades
+- rapidly
+- With the advent of social media, individuals in need of assistance can quickly share their stories to a wide audience
+- As the reasons above support
+- limited options to receive aid from others
+- information access would still be largely monopolized by the rich.
+
+## Grammar
+- access
+  - access(noun) **to** ~
+  - access(verb) ~
+- spread
+  - spread(present) - spread(past) - spread(p.p)
+- get better(informal) : become better(formal)
+
+## Typo
+- unprecedented
+- Millions
+- threatened
+- Air conditioning
+- beneficial
+- phenomenon
+
+***
+# Memo
+1. 시간 재면서 하기!!!
+2. 오타 안 내도록 주의
+3. 다른 사람 토플 답변 참고하기
+   - 예시는 어떤 방식으로 풀어나갈 수 있는지 등
